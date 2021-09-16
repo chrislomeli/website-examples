@@ -1,0 +1,48 @@
+🌟 COURSE RESOURCES 🌟
+
+
+Setup dev environment
+https://www.gatsbyjs.org/tutorial/part-zero/
+
+Gatsby Hello World Starter
+https://github.com/gatsbyjs/gatsby-starter-hello-world
+
+Gatsby Transformer Sharp
+https://www.gatsbyjs.org/packages/gatsby-transformer-sharp/
+
+
+Gatsby Plugin MDX
+https://www.gatsbyjs.org/packages/gatsby-plugin-mdx/
+
+Gatsby Plugin Google Fonts
+https://www.gatsbyjs.org/packages/gatsby-plugin-google-fonts/
+
+Styled Components in Gatsby
+https://www.gatsbyjs.org/docs/styled-components/
+
+React Developer Tools for Chrome
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+
+Gatsby Create Pages
+https://www.gatsbyjs.org/tutorial/part-seven/
+
+Minify SVGs with SVGOMG
+https://jakearchibald.github.io/svgomg/
+
+Prism React Renderer
+https://github.com/FormidableLabs/prism-react-renderer
+
+LekoArts
+https://themes.lekoarts.de/
+
+Codeblocks, MDX, and mdx-utils
+https://www.christopherbiscardi.com/post/codeblocks-mdx-and-mdx-utils
+
+Language tabs for Gatsby's code blocks
+https://www.lekoarts.de/en/blog/language-tabs-for-gatsbys-code-blocks
+
+Netlify
+https://www.netlify.com/
+
+Figma
+https://www.figma.com
